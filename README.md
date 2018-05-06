@@ -11,4 +11,8 @@ Links and materials for data_science and Python
 * <b>  Data Camp Open courses </b> : https://www.datacamp.com/community/open-courses?page=2
 * <b> Data Camp Tutorials </b> : https://www.datacamp.com/community/tutorials
 * <b> Machine Learning From Scratch: Complete Tutorial </b> :https://github.com/eriklindernoren/ML-From-Scratch
+
+
+### Books:
+
 * <b> Macine Learning Book From Standford </b> : https://ai.stanford.edu/~nilsson/MLBOOK.pdf
