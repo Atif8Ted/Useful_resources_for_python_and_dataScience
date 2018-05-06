@@ -7,3 +7,6 @@ Links and materials for data_science and Python
 * <b> <u> Python Tutorials(Everything) </u> </b> : https://pythonspot.com/read-xls-with-pandas/
 * <b> <u> Intro to pandas data structures (Greg Reda) </u> </b> : http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
 * <b> <u> The Open Source Data Science Masters </u> </b> : http://datasciencemasters.org/
+* <b> <u>  DataCamp Community Tutorials </u> </b>  : https://www.datacamp.com/community/tutorials
+* <b>  Data Camp Open courses </b> : https://www.datacamp.com/community/open-courses?page=2
+* <b> Data Camp Tutorials </b> : https://www.datacamp.com/community/tutorials
