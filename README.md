@@ -10,3 +10,4 @@ Links and materials for data_science and Python
 * <b> <u>  DataCamp Community Tutorials </u> </b>  : https://www.datacamp.com/community/tutorials
 * <b>  Data Camp Open courses </b> : https://www.datacamp.com/community/open-courses?page=2
 * <b> Data Camp Tutorials </b> : https://www.datacamp.com/community/tutorials
+* <b> Machine Learning From Scratch: Complete Tutorial </b> :https://github.com/eriklindernoren/ML-From-Scratch
