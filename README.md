@@ -16,3 +16,5 @@ Links and materials for data_science and Python
 ### Books:
 
 * <b> Macine Learning Book From Standford </b> : https://ai.stanford.edu/~nilsson/MLBOOK.pdf
+
+http://www.evarcity.com/blog.php#
