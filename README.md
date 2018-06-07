@@ -30,4 +30,6 @@ http://www.evarcity.com/blog.php#
 
 ## Important:
 * <b> Learning How to Learn: Powerful Mental Tools :https://www.youtube.com/watch?v=kue4FY3r3Ks&list=PLievC1UeaSOD3EBaJaHstTKIXS51Sfjwo
+* <b> Very Beatiful Compostion </b> :https://machinelearningmastery.com/machine-learning-mastery-method/
+  
 
