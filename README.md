@@ -27,3 +27,7 @@ http://www.evarcity.com/blog.php#
 * <b> Coursera:Suggested </b> :https://www.coursera.org/goal?id=1irvn2nnEeiJ1g7V9cuxKA
 * <b> ZuzoVn Github Repo </b> :https://github.com/ZuzooVn/machine-learning-for-software-engineers
 
+
+## Important:
+* <b> Learning How to Learn: Powerful Mental Tools :https://www.youtube.com/watch?v=kue4FY3r3Ks&list=PLievC1UeaSOD3EBaJaHstTKIXS51Sfjwo
+
