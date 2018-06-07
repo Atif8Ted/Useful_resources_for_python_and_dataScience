@@ -21,3 +21,6 @@ Links and materials for data_science and Python
 * <b> Macine Learning Book From Standford </b> : https://ai.stanford.edu/~nilsson/MLBOOK.pdf
 
 http://www.evarcity.com/blog.php#
+
+### Career Path :
+* <b> WikiHow:Learning Path </b> :https://twitter.com/ISnehaRane
