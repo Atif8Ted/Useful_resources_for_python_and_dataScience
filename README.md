@@ -23,7 +23,7 @@ Links and materials for data_science and Python
 http://www.evarcity.com/blog.php#
 
 ### Learning Path :
-* <b> WikiHow:Learning Path </b> :https://twitter.com/ISnehaRane
+* <b> WikiHow:Learning Path </b> :https://www.wikihow.com/Become-a-Machine-Learning-Engineer
 * <b> Coursera:Suggested </b> :https://www.coursera.org/goal?id=1irvn2nnEeiJ1g7V9cuxKA
 * <b> ZuzoVn Github Repo </b> :https://github.com/ZuzooVn/machine-learning-for-software-engineers
 
